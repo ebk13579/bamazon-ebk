@@ -16,9 +16,9 @@ CREATE TABLE products (
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES("Dune", "Books", 10.98, 12);
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES("Movidius", "Computers", 40.50, 10);
+VALUES("Movidius", "Computers", 40.55, 10);
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES  ('Pride & Prejudice', 'Books', 20.00, 30),
+VALUES  ('Pride & Prejudice', 'Books', 22.22, 30),
 		('Star Wars VII', 'Movies', 29.99, 25),
 		('SSD 1TB', 'Computers', 199.99, 40),
 		('iPhone X-F2', 'Phones+', 999.99, 100),
