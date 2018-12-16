@@ -1,0 +1,21 @@
+{
+  "name": "bamazon-ebk",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront using MySQL.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bamazon",
+    "Amazon",
+    "MySQL",
+    "Node"
+  ],
+  "author": "EBK",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
